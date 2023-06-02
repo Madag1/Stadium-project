@@ -1,0 +1,63 @@
+Presentation layer:
+	- Customer GUI
+	- Employee GUI
+
+Bussines logic layer:
+	- User
+	- Worker
+	- Reporting emergencies	
+
+	Operations on ticket:
+	- Event list
+	- Ticket
+	- Parking Ticket
+	- List of bought ticket
+	- Event
+	- Date
+
+	Food:
+	- Dish
+	- Order
+	- Order dishes
+	- Food menu
+	- List of orders
+	- Stand
+
+	Restocking stands:
+	- Supply order
+	- Ingredient order
+	
+	Fanclub Store:
+	- Items
+	- Shop order (FS)
+	- FanClub store item list
+
+	Showing location:
+	- Seat
+	- Sector
+	- Entrance	
+	
+
+Data Layer:
+	- DBMS
+
+Task 2:
+	Development studio - Visual Studio Code - popular, open-source, and versatile code editor that supports a variety of programming languages.
+	
+    	Technologies frameworks:
+		Front end - React Native 
+		Back end - Node.js
+		Web framework - Express.js
+		- popular, well-documented, and provide a good balance of performance and ease of use
+
+	DBMS - MySQL - open-source, widely used, and capable of handling high amounts of data
+	
+	OS - Linux-based operating system such as Ubuntu or Debian, because they are known for their stability, security, and scalability
+
+	Programming languages: 
+	- JavaScript - front-end web development 
+	- Python - a powerful and versatile programming language that is well-suited for data analysis
+
+Task 3:
+	
+
